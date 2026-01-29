@@ -121,6 +121,3 @@
     });
   </script>
 
-</body>
-</html><img width="9449" height="3543" alt="dinosaur_bg" src="https://github.com/user-attachments/assets/ca3859c2-0987-4c81-817d-1b5487ad1022" />
-# dinosaur
